@@ -9,6 +9,7 @@ def my_select(collection)
     i+=1
   i = 0
   new_arr = []
+end
   if collection.length>0
     while i < collection.length
      collection[i].even?
